@@ -1,0 +1,319 @@
+[
+
+    {
+        "paterno": "Abarca",
+        "materno": "Baeza",
+        "nombre": "Sofía",
+        "nota1": 6.7,
+        "nota2": 1,
+        "nota3": 4.6,
+        "nota4": 4.9
+
+    },
+    {
+        "paterno": "Abarca",
+        "materno": "Torres",
+        "nombre": "Isabel",
+        "nota1": 6.6,
+        "nota2": 7,
+        "nota3": 4.7,
+        "nota4": 2.9
+    },
+    {
+        "paterno": "Aguilar",
+        "materno": "Maureira",
+        "nombre": "Lucía",
+        "nota1": 1,
+        "nota2": 1,
+        "nota3": 7,
+        "nota4": 5.4
+    },
+    {
+        "paterno": "Benavides",
+        "materno": "Soto",
+        "nombre": "Sofía",
+        "nota1": 6.1,
+        "nota2": 6,
+        "nota3": 6.1,
+        "nota4": 7
+    },
+    {
+        "paterno": "Caro",
+        "materno": "Abarca",
+        "nombre": "Bartolomé",
+        "nota1": 2.5,
+        "nota2": 1,
+        "nota3": 5,
+        "nota4": 1
+    },
+    {
+        "paterno": "Carrasco",
+        "materno": "Camacho",
+        "nombre": "Bartolomé",
+        "nota1": 1,
+        "nota2": 5.2,
+        "nota3": 6,
+        "nota4": 2.8
+    },
+    {
+        "paterno": "Contreras",
+        "materno": "Sepúlveda",
+        "nombre": "José",
+        "nota1": 5.9,
+        "nota2": 1,
+        "nota3": 6.8,
+        "nota4": 6.4
+    },
+    {
+        "paterno": "Contreras",
+        "materno": "Vivanco",
+        "nombre": "Bartolomé",
+        "nota1": 7,
+        "nota2": 3.6,
+        "nota3": 6.8,
+        "nota4": 1
+    },
+    {
+        "paterno": "Duarte",
+        "materno": "Hernández",
+        "nombre": "Bartolomé",
+        "nota1": 7,
+        "nota2": 5.6,
+        "nota3": 1,
+        "nota4": 6.7
+    },
+    {
+        "paterno": "Espinoza",
+        "materno": "Carrasco",
+        "nombre": "José",
+        "nota1": 7,
+        "nota2": 5.8,
+        "nota3": 2.6,
+        "nota4": 7
+    },
+    {
+        "paterno": "Jara",
+        "materno": "Varas",
+        "nombre": "Sofía",
+        "nota1": 2,
+        "nota2": 5.6,
+        "nota3": 7,
+        "nota4": 7
+    },
+    {
+        "paterno": "Jorquera",
+        "materno": "Caro",
+        "nombre": "José",
+        "nota1": 5.1,
+        "nota2": 3.7,
+        "nota3": 4.4,
+        "nota4": 4.3
+    },
+    {
+        "paterno": "Jorquera",
+        "materno": "Sepúlveda",
+        "nombre": "Ignacio",
+        "nota1": 2.4,
+        "nota2": 7,
+        "nota3": 7,
+        "nota4": 3.8
+    },
+    {
+        "paterno": "Lara",
+        "materno": "Maureira",
+        "nombre": "Isabel",
+        "nota1": 2.4,
+        "nota2": 3.7,
+        "nota3": 3.5,
+        "nota4": 7
+    },
+    {
+        "paterno": "Martinez",
+        "materno": "Jorquera",
+        "nombre": "Miguel",
+        "nota1": 6.5,
+        "nota2": 4.6,
+        "nota3": 1,
+        "nota4": 3.6
+    },
+    {
+        "paterno": "Morales",
+        "materno": "Cáceres",
+        "nombre": "Javiera",
+        "nota1": 2.9,
+        "nota2": 5.6,
+        "nota3": 5.4,
+        "nota4": 5.6
+    },
+    {
+        "paterno": "Pacheco",
+        "materno": "Paredes",
+        "nombre": "Lucía",
+        "nota1": 7,
+        "nota2": 7,
+        "nota3": 5.9,
+        "nota4": 6.9
+    },
+    {
+        "paterno": "Paredes",
+        "materno": "Bastías",
+        "nombre": "Lucía",
+        "nota1": 2.8,
+        "nota2": 5.2,
+        "nota3": 5.7,
+        "nota4": 7
+    },
+    {
+        "paterno": "Paredes",
+        "materno": "Rivera",
+        "nombre": "Ignacio",
+        "nota1": 4,
+        "nota2": 2.3,
+        "nota3": 5,
+        "nota4": 1
+    },
+    {
+        "paterno": "Paredes",
+        "materno": "Suárez",
+        "nombre": "Bartolomé",
+        "nota1": 3.3,
+        "nota2": 5.1,
+        "nota3": 1,
+        "nota4": 2
+    },
+    {
+        "paterno": "Pérez",
+        "materno": "Figueroa",
+        "nombre": "Isabel",
+        "nota1": 7,
+        "nota2": 2.4,
+        "nota3": 6.8,
+        "nota4": 4.7
+    },
+    {
+        "paterno": "Ponce",
+        "materno": "Camacho",
+        "nombre": "Roberto",
+        "nota1": 3.7,
+        "nota2": 4.8,
+        "nota3": 3,
+        "nota4": 3.7
+    },
+    {
+        "paterno": "Ponce",
+        "materno": "Jara",
+        "nombre": "Alonso",
+        "nota1": 4.1,
+        "nota2": 2.7,
+        "nota3": 6.7,
+        "nota4": 5.6
+    },
+    {
+        "paterno": "Sepúlveda",
+        "materno": "Pérez",
+        "nombre": "Marcelo",
+        "nota1": 5.7,
+        "nota2": 5.8,
+        "nota3": 7,
+        "nota4": 1
+    },
+    {
+        "paterno": "Silva",
+        "materno": "González",
+        "nombre": "José",
+        "nota1": 7,
+        "nota2": 1,
+        "nota3": 5.9,
+        "nota4": 2.7
+    },
+    {
+        "paterno": "Solís",
+        "materno": "Duarte",
+        "nombre": "Ignacio",
+        "nota1": 6.7,
+        "nota2": 5.1,
+        "nota3": 2.2,
+        "nota4": 7
+    },
+    {
+        "paterno": "Solís",
+        "materno": "Pacheco",
+        "nombre": "Bartolomé",
+        "nota1": 5.9,
+        "nota2": 4.7,
+        "nota3": 4.8,
+        "nota4": 6.9
+    },
+    {
+        "paterno": "Soto",
+        "materno": "Carrasco",
+        "nombre": "Cristian",
+        "nota1": 4.1,
+        "nota2": 6.1,
+        "nota3": 4.5,
+        "nota4": 7
+    },
+    {
+        "paterno": "Suárez",
+        "materno": "Contreras",
+        "nombre": "Marcelo",
+        "nota1": 6.3,
+        "nota2": 3.4,
+        "nota3": 3.6,
+        "nota4": 7
+    },
+    {
+        "paterno": "Torres",
+        "materno": "Carrasco",
+        "nombre": "Lucía",
+        "nota1": 3.3,
+        "nota2": 2.4,
+        "nota3": 1,
+        "nota4": 3.5
+    },
+    {
+        "paterno": "Valenzuela",
+        "materno": "Chandía",
+        "nombre": "Cristian",
+        "nota1": 7,
+        "nota2": 4.9,
+        "nota3": 5.5,
+        "nota4": 5.2
+    },
+    {
+        "paterno": "Valenzuela",
+        "materno": "Gatica",
+        "nombre": "Javiera",
+        "nota1": 1,
+        "nota2": 6.6,
+        "nota3": 6.7,
+        "nota4": 1
+    },
+    {
+        "paterno": "Varas",
+        "materno": "Pacheco",
+        "nombre": "Roberto",
+        "nota1": 5.3,
+        "nota2": 6.9,
+        "nota3": 3.3,
+        "nota4": 7
+    },
+    {
+        "paterno": "Vivanco",
+        "materno": "Morales",
+        "nombre": "Marcelo",
+        "nota1": 5.2,
+        "nota2": 3.6,
+        "nota3": 1,
+        "nota4": 5.4
+    },
+    {
+        "paterno": "Vivanco",
+        "materno": "Vivanco",
+        "nombre": "Cristian",
+        "nota1": 5.4,
+        "nota2": 7,
+        "nota3": 7,
+        "nota4": 3.1
+    }
+]
